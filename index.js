@@ -40,3 +40,4 @@ export default function exDecimal(num) {
 }
 
 window.exDecimal = exDecimal;
+
